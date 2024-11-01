@@ -1,0 +1,351 @@
+Label;Wort;Information Gain
+Vaterlands & Heimatlieder;deutsch;0.16111
+Vaterlands & Heimatlieder;wein;0.09499
+Vaterlands & Heimatlieder;trinken;0.08267
+Vaterlands & Heimatlieder;leben;0.07608
+Vaterlands & Heimatlieder;treu;0.06972
+Vaterlands & Heimatlieder;frei;0.06154
+Vaterlands & Heimatlieder;unsrer;0.05423
+Vaterlands & Heimatlieder;fest;0.05198
+Vaterlands & Heimatlieder;drum;0.04938
+Vaterlands & Heimatlieder;froh;0.04745
+Vaterlands & Heimatlieder;alt;0.04183
+Vaterlands & Heimatlieder;frisch;0.03928
+Vaterlands & Heimatlieder;stark;0.0381
+Vaterlands & Heimatlieder;singen;0.03786
+Vaterlands & Heimatlieder;weihen;0.03721
+Vaterlands & Heimatlieder;lieb;0.03584
+Vaterlands & Heimatlieder;reich;0.03583
+Vaterlands & Heimatlieder;jung;0.03568
+Vaterlands & Heimatlieder;voll;0.03567
+Vaterlands & Heimatlieder;stolz;0.03494
+Vaterlands & Heimatlieder;streben;0.03386
+Vaterlands & Heimatlieder;halten;0.03352
+Vaterlands & Heimatlieder;deutsche;0.03286
+Vaterlands & Heimatlieder;fröhlich;0.03279
+Vaterlands & Heimatlieder;sprechen;0.03254
+Vaterlands & Heimatlieder;nit;0.03175
+Vaterlands & Heimatlieder;gelten;0.03114
+Vaterlands & Heimatlieder;wär;0.03075
+Vaterlands & Heimatlieder;kühn;0.02958
+Vaterlands & Heimatlieder;heut;0.02935
+Vaterlands & Heimatlieder;mutig;0.0286
+Vaterlands & Heimatlieder;bleiben;0.02833
+Vaterlands & Heimatlieder;sterben;0.02797
+Vaterlands & Heimatlieder;heil;0.02745
+Vaterlands & Heimatlieder;heilg;0.02736
+Vaterlands & Heimatlieder;heilig;0.02697
+Vaterlands & Heimatlieder;schwören;0.02624
+Vaterlands & Heimatlieder;schlagen;0.0261
+Vaterlands & Heimatlieder;empor;0.02608
+Vaterlands & Heimatlieder;ewig;0.02605
+Vaterlands & Heimatlieder;lassen;0.02594
+Vaterlands & Heimatlieder;klein;0.02585
+Vaterlands & Heimatlieder;schön;0.02532
+Vaterlands & Heimatlieder;grün;0.02526
+Vaterlands & Heimatlieder;hell;0.02506
+Vaterlands & Heimatlieder;herrlich;0.02506
+Vaterlands & Heimatlieder;stehen;0.02501
+Vaterlands & Heimatlieder;wehr;0.02499
+Vaterlands & Heimatlieder;klingen;0.02476
+Vaterlands & Heimatlieder;sitzen;0.02457
+Festgesänge & Gemeinschaftslieder;deutsch;0.16111
+Festgesänge & Gemeinschaftslieder;trinken;0.08267
+Festgesänge & Gemeinschaftslieder;leben;0.07608
+Festgesänge & Gemeinschaftslieder;treu;0.06972
+Festgesänge & Gemeinschaftslieder;frei;0.06154
+Festgesänge & Gemeinschaftslieder;unsrer;0.05423
+Festgesänge & Gemeinschaftslieder;fest;0.05198
+Festgesänge & Gemeinschaftslieder;freund;0.05034
+Festgesänge & Gemeinschaftslieder;drum;0.04938
+Festgesänge & Gemeinschaftslieder;froh;0.04745
+Festgesänge & Gemeinschaftslieder;alt;0.04183
+Festgesänge & Gemeinschaftslieder;frisch;0.03928
+Festgesänge & Gemeinschaftslieder;stark;0.0381
+Festgesänge & Gemeinschaftslieder;singen;0.03786
+Festgesänge & Gemeinschaftslieder;weihen;0.03721
+Festgesänge & Gemeinschaftslieder;lieb;0.03584
+Festgesänge & Gemeinschaftslieder;reich;0.03583
+Festgesänge & Gemeinschaftslieder;trink;0.0357
+Festgesänge & Gemeinschaftslieder;jung;0.03568
+Festgesänge & Gemeinschaftslieder;voll;0.03567
+Festgesänge & Gemeinschaftslieder;stolz;0.03494
+Festgesänge & Gemeinschaftslieder;streben;0.03386
+Festgesänge & Gemeinschaftslieder;halten;0.03352
+Festgesänge & Gemeinschaftslieder;deutsche;0.03286
+Festgesänge & Gemeinschaftslieder;fröhlich;0.03279
+Festgesänge & Gemeinschaftslieder;sprechen;0.03254
+Festgesänge & Gemeinschaftslieder;gelten;0.03114
+Festgesänge & Gemeinschaftslieder;wär;0.03075
+Festgesänge & Gemeinschaftslieder;kühn;0.02958
+Festgesänge & Gemeinschaftslieder;heut;0.02935
+Festgesänge & Gemeinschaftslieder;mutig;0.0286
+Festgesänge & Gemeinschaftslieder;bleiben;0.02833
+Festgesänge & Gemeinschaftslieder;flott;0.02819
+Festgesänge & Gemeinschaftslieder;sterben;0.02797
+Festgesänge & Gemeinschaftslieder;heilg;0.02736
+Festgesänge & Gemeinschaftslieder;heilig;0.02697
+Festgesänge & Gemeinschaftslieder;schwören;0.02624
+Festgesänge & Gemeinschaftslieder;schlagen;0.0261
+Festgesänge & Gemeinschaftslieder;empor;0.02608
+Festgesänge & Gemeinschaftslieder;ewig;0.02605
+Festgesänge & Gemeinschaftslieder;lassen;0.02594
+Festgesänge & Gemeinschaftslieder;klein;0.02585
+Festgesänge & Gemeinschaftslieder;schön;0.02532
+Festgesänge & Gemeinschaftslieder;grün;0.02526
+Festgesänge & Gemeinschaftslieder;hell;0.02506
+Festgesänge & Gemeinschaftslieder;herrlich;0.02506
+Festgesänge & Gemeinschaftslieder;stehen;0.02501
+Festgesänge & Gemeinschaftslieder;klingen;0.02476
+Festgesänge & Gemeinschaftslieder;sitzen;0.02457
+Festgesänge & Gemeinschaftslieder;that;0.02452
+Jugend & Erinnerung;deutsch;0.16111
+Jugend & Erinnerung;trinken;0.08267
+Jugend & Erinnerung;leben;0.07608
+Jugend & Erinnerung;treu;0.06972
+Jugend & Erinnerung;frei;0.06154
+Jugend & Erinnerung;unsrer;0.05423
+Jugend & Erinnerung;fest;0.05198
+Jugend & Erinnerung;drum;0.04938
+Jugend & Erinnerung;froh;0.04745
+Jugend & Erinnerung;alt;0.04183
+Jugend & Erinnerung;frisch;0.03928
+Jugend & Erinnerung;stark;0.0381
+Jugend & Erinnerung;singen;0.03786
+Jugend & Erinnerung;weihen;0.03721
+Jugend & Erinnerung;lieb;0.03584
+Jugend & Erinnerung;reich;0.03583
+Jugend & Erinnerung;trink;0.0357
+Jugend & Erinnerung;jung;0.03568
+Jugend & Erinnerung;voll;0.03567
+Jugend & Erinnerung;stolz;0.03494
+Jugend & Erinnerung;streben;0.03386
+Jugend & Erinnerung;halten;0.03352
+Jugend & Erinnerung;fröhlich;0.03279
+Jugend & Erinnerung;sprechen;0.03254
+Jugend & Erinnerung;gelten;0.03114
+Jugend & Erinnerung;wär;0.03075
+Jugend & Erinnerung;kühn;0.02958
+Jugend & Erinnerung;heut;0.02935
+Jugend & Erinnerung;mutig;0.0286
+Jugend & Erinnerung;bleiben;0.02833
+Jugend & Erinnerung;flott;0.02819
+Jugend & Erinnerung;sterben;0.02797
+Jugend & Erinnerung;schlagen;0.0261
+Jugend & Erinnerung;empor;0.02608
+Jugend & Erinnerung;ewig;0.02605
+Jugend & Erinnerung;lassen;0.02594
+Jugend & Erinnerung;klein;0.02585
+Jugend & Erinnerung;schön;0.02532
+Jugend & Erinnerung;grün;0.02526
+Jugend & Erinnerung;hell;0.02506
+Jugend & Erinnerung;herrlich;0.02506
+Jugend & Erinnerung;stehen;0.02501
+Jugend & Erinnerung;klingen;0.02476
+Jugend & Erinnerung;sitzen;0.02457
+Jugend & Erinnerung;schenken;0.02449
+Jugend & Erinnerung;goldn;0.02398
+Jugend & Erinnerung;rein;0.0234
+Jugend & Erinnerung;sag;0.02308
+Jugend & Erinnerung;unser;0.02298
+Jugend & Erinnerung;tönen;0.02278
+Liebe, Wein & Wandern;deutsch;0.16111
+Liebe, Wein & Wandern;wein;0.09499
+Liebe, Wein & Wandern;trinken;0.08267
+Liebe, Wein & Wandern;leben;0.07608
+Liebe, Wein & Wandern;treu;0.06972
+Liebe, Wein & Wandern;frei;0.06154
+Liebe, Wein & Wandern;unsrer;0.05423
+Liebe, Wein & Wandern;fest;0.05198
+Liebe, Wein & Wandern;drum;0.04938
+Liebe, Wein & Wandern;froh;0.04745
+Liebe, Wein & Wandern;alt;0.04183
+Liebe, Wein & Wandern;frisch;0.03928
+Liebe, Wein & Wandern;stark;0.0381
+Liebe, Wein & Wandern;singen;0.03786
+Liebe, Wein & Wandern;weihen;0.03721
+Liebe, Wein & Wandern;lieb;0.03584
+Liebe, Wein & Wandern;reich;0.03583
+Liebe, Wein & Wandern;trink;0.0357
+Liebe, Wein & Wandern;jung;0.03568
+Liebe, Wein & Wandern;voll;0.03567
+Liebe, Wein & Wandern;stolz;0.03494
+Liebe, Wein & Wandern;halten;0.03352
+Liebe, Wein & Wandern;deutsche;0.03286
+Liebe, Wein & Wandern;fröhlich;0.03279
+Liebe, Wein & Wandern;sprechen;0.03254
+Liebe, Wein & Wandern;nit;0.03175
+Liebe, Wein & Wandern;gelten;0.03114
+Liebe, Wein & Wandern;wär;0.03075
+Liebe, Wein & Wandern;kühn;0.02958
+Liebe, Wein & Wandern;heut;0.02935
+Liebe, Wein & Wandern;bleiben;0.02833
+Liebe, Wein & Wandern;sterben;0.02797
+Liebe, Wein & Wandern;heilg;0.02736
+Liebe, Wein & Wandern;heilig;0.02697
+Liebe, Wein & Wandern;schwören;0.02624
+Liebe, Wein & Wandern;schlagen;0.0261
+Liebe, Wein & Wandern;empor;0.02608
+Liebe, Wein & Wandern;ewig;0.02605
+Liebe, Wein & Wandern;lassen;0.02594
+Liebe, Wein & Wandern;klein;0.02585
+Liebe, Wein & Wandern;trank;0.02536
+Liebe, Wein & Wandern;schön;0.02532
+Liebe, Wein & Wandern;grün;0.02526
+Liebe, Wein & Wandern;hell;0.02506
+Liebe, Wein & Wandern;herrlich;0.02506
+Liebe, Wein & Wandern;stehen;0.02501
+Liebe, Wein & Wandern;klingen;0.02476
+Liebe, Wein & Wandern;sitzen;0.02457
+Liebe, Wein & Wandern;that;0.02452
+Liebe, Wein & Wandern;schenken;0.02449
+Volkslieder;deutsch;0.16111
+Volkslieder;wein;0.09499
+Volkslieder;trinken;0.08267
+Volkslieder;leben;0.07608
+Volkslieder;feind;0.0704
+Volkslieder;treu;0.06972
+Volkslieder;frei;0.06154
+Volkslieder;unsrer;0.05423
+Volkslieder;fest;0.05198
+Volkslieder;drum;0.04938
+Volkslieder;froh;0.04745
+Volkslieder;alt;0.04183
+Volkslieder;frisch;0.03928
+Volkslieder;stark;0.0381
+Volkslieder;singen;0.03786
+Volkslieder;lieb;0.03584
+Volkslieder;reich;0.03583
+Volkslieder;trink;0.0357
+Volkslieder;jung;0.03568
+Volkslieder;voll;0.03567
+Volkslieder;stolz;0.03494
+Volkslieder;halten;0.03352
+Volkslieder;mi;0.03285
+Volkslieder;fröhlich;0.03279
+Volkslieder;sprechen;0.03254
+Volkslieder;nit;0.03175
+Volkslieder;gelten;0.03114
+Volkslieder;wär;0.03075
+Volkslieder;kühn;0.02958
+Volkslieder;geist;0.02936
+Volkslieder;heut;0.02935
+Volkslieder;mutig;0.0286
+Volkslieder;bleiben;0.02833
+Volkslieder;flott;0.02819
+Volkslieder;sterben;0.02797
+Volkslieder;mer;0.02738
+Volkslieder;heilg;0.02736
+Volkslieder;heilig;0.02697
+Volkslieder;schlagen;0.0261
+Volkslieder;ewig;0.02605
+Volkslieder;lassen;0.02594
+Volkslieder;klein;0.02585
+Volkslieder;trank;0.02536
+Volkslieder;schön;0.02532
+Volkslieder;grün;0.02526
+Volkslieder;hell;0.02506
+Volkslieder;herrlich;0.02506
+Volkslieder;stehen;0.02501
+Volkslieder;klingen;0.02476
+Volkslieder;sitzen;0.02457
+Kneipe;deutsch;0.16111
+Kneipe;trinken;0.08267
+Kneipe;leben;0.07608
+Kneipe;feind;0.0704
+Kneipe;treu;0.06972
+Kneipe;frei;0.06154
+Kneipe;unsrer;0.05423
+Kneipe;fest;0.05198
+Kneipe;drum;0.04938
+Kneipe;froh;0.04745
+Kneipe;alt;0.04183
+Kneipe;frisch;0.03928
+Kneipe;stark;0.0381
+Kneipe;singen;0.03786
+Kneipe;weihen;0.03721
+Kneipe;lieb;0.03584
+Kneipe;reich;0.03583
+Kneipe;trink;0.0357
+Kneipe;jung;0.03568
+Kneipe;voll;0.03567
+Kneipe;stolz;0.03494
+Kneipe;streben;0.03386
+Kneipe;halten;0.03352
+Kneipe;deutsche;0.03286
+Kneipe;fröhlich;0.03279
+Kneipe;sprechen;0.03254
+Kneipe;nit;0.03175
+Kneipe;gelten;0.03114
+Kneipe;wär;0.03075
+Kneipe;kühn;0.02958
+Kneipe;heut;0.02935
+Kneipe;mutig;0.0286
+Kneipe;bleiben;0.02833
+Kneipe;flott;0.02819
+Kneipe;sterben;0.02797
+Kneipe;heilg;0.02736
+Kneipe;heilig;0.02697
+Kneipe;schlagen;0.0261
+Kneipe;empor;0.02608
+Kneipe;ewig;0.02605
+Kneipe;lassen;0.02594
+Kneipe;klein;0.02585
+Kneipe;trank;0.02536
+Kneipe;schön;0.02532
+Kneipe;grün;0.02526
+Kneipe;hell;0.02506
+Kneipe;herrlich;0.02506
+Kneipe;stehen;0.02501
+Kneipe;klingen;0.02476
+Kneipe;sitzen;0.02457
+Allerhand Humor;deutsch;0.16111
+Allerhand Humor;trinken;0.08267
+Allerhand Humor;leben;0.07608
+Allerhand Humor;treu;0.06972
+Allerhand Humor;frei;0.06154
+Allerhand Humor;unsrer;0.05423
+Allerhand Humor;fest;0.05198
+Allerhand Humor;drum;0.04938
+Allerhand Humor;tod;0.0476
+Allerhand Humor;froh;0.04745
+Allerhand Humor;alt;0.04183
+Allerhand Humor;frisch;0.03928
+Allerhand Humor;stark;0.0381
+Allerhand Humor;singen;0.03786
+Allerhand Humor;weihen;0.03721
+Allerhand Humor;lieb;0.03584
+Allerhand Humor;reich;0.03583
+Allerhand Humor;trink;0.0357
+Allerhand Humor;jung;0.03568
+Allerhand Humor;voll;0.03567
+Allerhand Humor;stolz;0.03494
+Allerhand Humor;streben;0.03386
+Allerhand Humor;halten;0.03352
+Allerhand Humor;deutsche;0.03286
+Allerhand Humor;mi;0.03285
+Allerhand Humor;fröhlich;0.03279
+Allerhand Humor;sprechen;0.03254
+Allerhand Humor;nit;0.03175
+Allerhand Humor;gelten;0.03114
+Allerhand Humor;wär;0.03075
+Allerhand Humor;kühn;0.02958
+Allerhand Humor;heut;0.02935
+Allerhand Humor;bleiben;0.02833
+Allerhand Humor;flott;0.02819
+Allerhand Humor;sterben;0.02797
+Allerhand Humor;heil;0.02745
+Allerhand Humor;mer;0.02738
+Allerhand Humor;heilg;0.02736
+Allerhand Humor;heilig;0.02697
+Allerhand Humor;schwören;0.02624
+Allerhand Humor;schlagen;0.0261
+Allerhand Humor;empor;0.02608
+Allerhand Humor;ewig;0.02605
+Allerhand Humor;lassen;0.02594
+Allerhand Humor;klein;0.02585
+Allerhand Humor;wind;0.02543
+Allerhand Humor;trank;0.02536
+Allerhand Humor;schön;0.02532
+Allerhand Humor;grün;0.02526
+Allerhand Humor;hell;0.02506
